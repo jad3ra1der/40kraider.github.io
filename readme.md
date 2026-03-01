@@ -1,0 +1,2 @@
+# Showcase Site Project
+This project is to create a personal website showcasing one of my most recent hobbies, my Warhammer 40K army. The project consists of a [two-page website](https://jad3ra1der.github.io/40kraider.github.io/) and a [documentation](https://github.com/jad3ra1der/40kraider.github.io/tree/main/docs) folder.
