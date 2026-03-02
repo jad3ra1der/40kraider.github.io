@@ -1,0 +1,20 @@
+body {
+    background-color: #1f1f1f;
+}
+h1 {
+    color:#ffafce;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color:#95ff92;
+}
+h3 {
+    color:#a35dff
+}
+a {
+    color:gold
+}
+p {
+    color:#ffc0f1;
+    font-family: 'Courier New', Courier, monospace;
+}
